@@ -4,9 +4,9 @@ Coletivo descentralizado de OSINT, Defesa Digital & Ferramentas Open-Source.
 > Iluminando o caos digital com transparência, colaboração e dados públicos.
 
 ## Links
-- Site: `index.html` (GitHub Pages)
-- Telegram: (link privado - inserir)
-- Repositório: (este pacote)
+- Site: psychodelicteam.github.io
+- Telegram: Is Comming
+- Repositório: https://github.com/psychodelicteam/Public/tree/main
 
 ## O que fazemos
 - Investigações 100% com dados públicos (OSINT)
